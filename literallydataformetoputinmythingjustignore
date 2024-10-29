@@ -1,5 +1,4 @@
-gpt-4o
-gpt-4-turbo
-gpt-4
-gpt-3.5-turbo
+llama3-70b-8192
 llama-3-8b-instruct
+qwen1.5-14b-chat-awq
+gemma2-9b-it
