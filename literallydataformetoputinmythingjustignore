@@ -1,4 +1,7 @@
-llama3-70b-8192
+gpt-4o
+claude-3-5-sonnet-20240620
+claude-3-opus-20240229
+claude-3-sonnet-20240229
+claude-3-haiku-20240307
 llama-3-8b-instruct
 qwen1.5-14b-chat-awq
-gemma2-9b-it
